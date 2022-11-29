@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is https://github.com/sleepysealion99/tea_shop.git
+If you used the stencil code, this is https://sleepysealion99.github.io/milktea_shop/
 
 ### Goal and Value of the Application
 Goal: Providing customers a website with filter and sort and shopping cart for the milk tea shop. 
