@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.css": "/milktea_shop/static/css/main.073c9b0a.css",
-    "main.js": "/milktea_shop/static/js/main.b79039b7.js",
+    "main.css": "/milktea_shop/static/css/main.e8d72a9d.css",
+    "main.js": "/milktea_shop/static/js/main.397e79eb.js",
+    "static/js/496.d732ee61.chunk.js": "/milktea_shop/static/js/496.d732ee61.chunk.js",
+    "static/media/mochi-oreo.png": "/milktea_shop/static/media/mochi-oreo.396e202acd212bb457be.png",
+    "static/media/cheese-strawberry.png": "/milktea_shop/static/media/cheese-strawberry.78ec10c3940a9151fb2f.png",
+    "static/media/white-peach.png": "/milktea_shop/static/media/white-peach.96c25b9ef856738231a2.png",
+    "static/media/mango-sweet-dew.png": "/milktea_shop/static/media/mango-sweet-dew.540b4d0d28a49d286cc6.png",
+    "static/media/avomango.png": "/milktea_shop/static/media/avomango.4aeafda86f14b4e8c052.png",
+    "static/media/lemon-explosion.png": "/milktea_shop/static/media/lemon-explosion.05002c99305b6e76a8a6.png",
+    "static/media/super-orange.png": "/milktea_shop/static/media/super-orange.e2237ff39d1f2469d97e.png",
+    "static/media/mochi-chestnut.png": "/milktea_shop/static/media/mochi-chestnut.5972614ca1d1dcf5ab0f.png",
+    "static/media/avocado-yog.png": "/milktea_shop/static/media/avocado-yog.c04c582bcaac16b25ed6.png",
+    "static/media/soybean-milk-tea.png": "/milktea_shop/static/media/soybean-milk-tea.2e69952be96812ef5bf8.png",
+    "static/media/mochi-ube.png": "/milktea_shop/static/media/mochi-ube.7ae6946615f2313c0660.png",
+    "static/media/cheese-roasted-milk-tea.png": "/milktea_shop/static/media/cheese-roasted-milk-tea.76d0ee987b2cd076a982.png",
     "static/media/logo.svg": "/milktea_shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/milktea_shop/index.html",
-    "main.073c9b0a.css.map": "/milktea_shop/static/css/main.073c9b0a.css.map",
-    "main.b79039b7.js.map": "/milktea_shop/static/js/main.b79039b7.js.map"
+    "main.e8d72a9d.css.map": "/milktea_shop/static/css/main.e8d72a9d.css.map",
+    "main.397e79eb.js.map": "/milktea_shop/static/js/main.397e79eb.js.map",
+    "496.d732ee61.chunk.js.map": "/milktea_shop/static/js/496.d732ee61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b79039b7.js"
+    "static/css/main.e8d72a9d.css",
+    "static/js/main.397e79eb.js"
   ]
 }
